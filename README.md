@@ -22,8 +22,8 @@ Things that I use for my terminal: (all of these should already be installed)
 
 - Powershell 7
 - Oh my posh
-- Light theme
+- Light theme ([Use PSReadLine](https://learn.microsoft.com/en-us/powershell/module/psreadline/set-psreadlineoption?view=powershell-7.2#-colors))
 
 ## TODOs
 
-- [ ] TODO: Automate installing the [nerd font](#fonts)
+- Automate installing the [nerd font](#fonts)
