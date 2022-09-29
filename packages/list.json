@@ -3,7 +3,9 @@
   "AgileBits.1Password",
   "BraveSoftware.BraveBrowser",
   "CoreyButler.NVMforWindows",
+  "gerardog.gsudo",
   "Git.Git",
+  "icsharpcode.ILSpy",
   "JanDeDobbeleer.OhMyPosh",
   "Logseq.Logseq",
   "Microsoft.PowerShell",
@@ -14,5 +16,5 @@
   "SourceFoundry.HackFonts",
   "Spotify.Spotify",
   "Telerik.Fiddler.Classic",
-  "icsharpcode.ILSpy"
+  "WinDirStat.WinDirStat"
 ]
