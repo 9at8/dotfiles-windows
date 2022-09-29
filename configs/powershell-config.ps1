@@ -1,4 +1,4 @@
-oh-my-posh --init --shell pwsh --config ~/pure.omp.json | Invoke-Expression
+oh-my-posh --init --shell pwsh --config "$env:POSH_THEMES_PATH\pure.omp.json" | Invoke-Expression
 
 # Emacs like functionality
 Set-PSReadLineOption -EditMode Emacs
