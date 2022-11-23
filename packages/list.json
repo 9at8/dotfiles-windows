@@ -1,21 +1,94 @@
 [
-  "7zip.7zip",
-  "AgileBits.1Password",
-  "BraveSoftware.BraveBrowser",
-  "CoreyButler.NVMforWindows",
-  "gerardog.gsudo",
-  "Git.Git",
-  "icsharpcode.ILSpy",
-  "JanDeDobbeleer.OhMyPosh",
-  "Logseq.Logseq",
-  "Microsoft.PowerShell",
-  "Microsoft.PowerToys",
-  "Microsoft.VisualStudioCode",
-  "Microsoft.WindowsTerminal",
-  "Python.Python.3.11",
-  "SnoopWpf.Snoop",
-  "SourceFoundry.HackFonts",
-  "Spotify.Spotify",
-  "Telerik.Fiddler.Classic",
-  "WinDirStat.WinDirStat"
+  {
+    "name": "7zip.7zip",
+    "id": "7zip.7zip"
+  },
+  {
+    "name": "AgileBits.1Password",
+    "id": "AgileBits.1Password"
+  },
+  {
+    "name": "BraveSoftware.BraveBrowser",
+    "id": "BraveSoftware.BraveBrowser"
+  },
+  {
+    "name": "CoreyButler.NVMforWindows",
+    "id": "CoreyButler.NVMforWindows"
+  },
+  {
+    "name": "DevToys",
+    "id": "9PGCV4V3BK4W"
+  },
+  {
+    "name": "gerardog.gsudo",
+    "id": "gerardog.gsudo"
+  },
+  {
+    "name": "Git.Git",
+    "id": "Git.Git"
+  },
+  {
+    "name": "icsharpcode.ILSpy",
+    "id": "icsharpcode.ILSpy"
+  },
+  {
+    "name": "JanDeDobbeleer.OhMyPosh",
+    "id": "JanDeDobbeleer.OhMyPosh"
+  },
+  {
+    "name": "Logseq.Logseq",
+    "id": "Logseq.Logseq"
+  },
+  {
+    "name": "Microsoft.PowerShell",
+    "id": "Microsoft.PowerShell"
+  },
+  {
+    "name": "Microsoft.PowerToys",
+    "id": "Microsoft.PowerToys"
+  },
+  {
+    "name": "Microsoft.VisualStudioCode",
+    "id": "Microsoft.VisualStudioCode"
+  },
+  {
+    "name": "Microsoft.WindowsTerminal",
+    "id": "Microsoft.WindowsTerminal"
+  },
+  {
+    "name": "NuGet Package Explorer",
+    "id": "9WZDNCRDMDM3"
+  },
+  {
+    "name": "Python.Python.3.11",
+    "id": "Python.Python.3.11"
+  },
+  {
+    "name": "SnoopWpf.Snoop",
+    "id": "SnoopWpf.Snoop"
+  },
+  {
+    "name": "SourceFoundry.HackFonts",
+    "id": "SourceFoundry.HackFonts"
+  },
+  {
+    "name": "Spotify.Spotify",
+    "id": "Spotify.Spotify"
+  },
+  {
+    "name": "Telerik.Fiddler.Classic",
+    "id": "Telerik.Fiddler.Classic"
+  },
+  {
+    "name": "WinDbg Preview",
+    "id": "9PGJGD53TN86"
+  },
+  {
+    "name": "WinDirStat.WinDirStat",
+    "id": "WinDirStat.WinDirStat"
+  },
+  {
+    "name": "Xodo - PDF Reader & Editor",
+    "id": "9WZDNCRDJXP4"
+  }
 ]
