@@ -1,94 +1,26 @@
 [
-  {
-    "name": "7zip.7zip",
-    "id": "7zip.7zip"
-  },
-  {
-    "name": "AgileBits.1Password",
-    "id": "AgileBits.1Password"
-  },
-  {
-    "name": "BraveSoftware.BraveBrowser",
-    "id": "BraveSoftware.BraveBrowser"
-  },
-  {
-    "name": "CoreyButler.NVMforWindows",
-    "id": "CoreyButler.NVMforWindows"
-  },
-  {
-    "name": "DevToys",
-    "id": "9PGCV4V3BK4W"
-  },
-  {
-    "name": "gerardog.gsudo",
-    "id": "gerardog.gsudo"
-  },
-  {
-    "name": "Git.Git",
-    "id": "Git.Git"
-  },
-  {
-    "name": "icsharpcode.ILSpy",
-    "id": "icsharpcode.ILSpy"
-  },
-  {
-    "name": "JanDeDobbeleer.OhMyPosh",
-    "id": "JanDeDobbeleer.OhMyPosh"
-  },
-  {
-    "name": "Logseq.Logseq",
-    "id": "Logseq.Logseq"
-  },
-  {
-    "name": "Microsoft.PowerShell",
-    "id": "Microsoft.PowerShell"
-  },
-  {
-    "name": "Microsoft.PowerToys",
-    "id": "Microsoft.PowerToys"
-  },
-  {
-    "name": "Microsoft.VisualStudioCode",
-    "id": "Microsoft.VisualStudioCode"
-  },
-  {
-    "name": "Microsoft.WindowsTerminal",
-    "id": "Microsoft.WindowsTerminal"
-  },
-  {
-    "name": "NuGet Package Explorer",
-    "id": "9WZDNCRDMDM3"
-  },
-  {
-    "name": "Python.Python.3.11",
-    "id": "Python.Python.3.11"
-  },
-  {
-    "name": "SnoopWpf.Snoop",
-    "id": "SnoopWpf.Snoop"
-  },
-  {
-    "name": "SourceFoundry.HackFonts",
-    "id": "SourceFoundry.HackFonts"
-  },
-  {
-    "name": "Spotify.Spotify",
-    "id": "Spotify.Spotify"
-  },
-  {
-    "name": "Telerik.Fiddler.Classic",
-    "id": "Telerik.Fiddler.Classic"
-  },
-  {
-    "name": "WinDbg Preview",
-    "id": "9PGJGD53TN86"
-  },
-  {
-    "name": "WinDirStat.WinDirStat",
-    "id": "WinDirStat.WinDirStat"
-  },
-  {
-    "name": "Xodo - PDF Reader & Editor",
-    "id": "9WZDNCRDJXP4"
-  }
+  { name: '1Password', id: 'AgileBits.1Password' },
+  { name: '7zip', id: '7zip.7zip' },
+  { name: 'Brave Browser', id: 'BraveSoftware.BraveBrowser' },
+  { name: 'DevToys - Etienne', id: '9PGCV4V3BK4W' },
+  { name: 'Fiddler Classic', id: 'Telerik.Fiddler.Classic' },
+  { name: 'Git', id: 'Git.Git' },
+  { name: 'Hack Font', id: 'SourceFoundry.HackFonts' },
+  { name: 'ILSpy', id: 'icsharpcode.ILSpy' },
+  { name: 'Logseq', id: 'Logseq.Logseq' },
+  { name: 'Microsoft PowerToys', id: 'Microsoft.PowerToys' },
+  { name: 'NuGet CLI', id: 'Microsoft.NuGet' },
+  { name: 'NuGet Package Explorer', id: '9WZDNCRDMDM3' },
+  { name: 'nvm - Node Version Manager', id: 'CoreyButler.NVMforWindows' },
+  { name: 'OhMyPosh', id: 'JanDeDobbeleer.OhMyPosh' },
+  { name: 'PowerShell 7', id: 'Microsoft.PowerShell' },
+  { name: 'Python 3.11', id: 'Python.Python.3.11' },
+  { name: 'Snoop Wpf', id: 'SnoopWpf.Snoop' },
+  { name: 'Spotify', id: 'Spotify.Spotify' },
+  { name: 'sudo', id: 'gerardog.gsudo' },
+  { name: 'VS Code', id: 'Microsoft.VisualStudioCode' },
+  { name: 'WinDbg Preview', id: '9PGJGD53TN86' },
+  { name: 'WinDirStat', id: 'WinDirStat.WinDirStat' },
+  { name: 'Windows Terminal', id: 'Microsoft.WindowsTerminal' },
+  { name: 'Xodo - PDF Reader & Editor', id: '9WZDNCRDJXP4' }
 ]
