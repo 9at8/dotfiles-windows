@@ -9,6 +9,7 @@
   { "name": "ILSpy", "id": "icsharpcode.ILSpy" },
   { "name": "Logseq", "id": "Logseq.Logseq" },
   { "name": "Microsoft PowerToys", "id": "Microsoft.PowerToys" },
+  { "name": "Nextcloud", "id": "Nextcloud.NextcloudDesktop" },
   { "name": "NuGet CLI", "id": "Microsoft.NuGet" },
   { "name": "NuGet Package Explorer", "id": "9WZDNCRDMDM3" },
   { "name": "nvm - Node Version Manager", "id": "CoreyButler.NVMforWindows" },
