@@ -16,6 +16,7 @@
   { "name": "OhMyPosh", "id": "JanDeDobbeleer.OhMyPosh" },
   { "name": "PowerShell 7", "id": "Microsoft.PowerShell" },
   { "name": "Python 3.11", "id": "Python.Python.3.11" },
+  { "name": "Shotcut - Video Editor", "id": "Meltytech.Shotcut" },
   { "name": "Snoop Wpf", "id": "SnoopWpf.Snoop" },
   { "name": "Spotify", "id": "Spotify.Spotify" },
   { "name": "sudo", "id": "gerardog.gsudo" },
