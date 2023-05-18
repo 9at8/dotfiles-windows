@@ -6,5 +6,5 @@ foreach ($package in $Packages) {
 
   Write-Output "Installing $name ($id) ..."
 
-  winget install --id=$id -e
+  winget install --id=$id -e --accept-package-agreements --accept-source-agreements
 }
