@@ -1,6 +1,7 @@
 [
   { "name": "1Password", "id": "AgileBits.1Password" },
   { "name": "7zip", "id": "7zip.7zip" },
+  { "name": "Barrier", "id": "DebaucheeOpenSourceGroup.Barrier" },
   { "name": "Brave Browser", "id": "BraveSoftware.BraveBrowser" },
   { "name": "DevToys - Etienne", "id": "9PGCV4V3BK4W" },
   { "name": "draw.io", "id": "9MVVSZK43QQW" },
