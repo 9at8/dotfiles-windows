@@ -16,6 +16,7 @@
   { "name": "NuGet Package Explorer", "id": "9WZDNCRDMDM3" },
   { "name": "nvm - Node Version Manager", "id": "CoreyButler.NVMforWindows" },
   { "name": "OhMyPosh", "id": "JanDeDobbeleer.OhMyPosh" },
+  { "name": "Process Monitor", "id": "Microsoft.Sysinternals.ProcessMonitor" },
   { "name": "PowerShell 7", "id": "Microsoft.PowerShell" },
   { "name": "Python 3.11", "id": "Python.Python.3.11" },
   { "name": "Shotcut - Video Editor", "id": "Meltytech.Shotcut" },
