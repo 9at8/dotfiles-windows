@@ -22,6 +22,7 @@
   { "name": "Shotcut - Video Editor", "id": "Meltytech.Shotcut" },
   { "name": "Snoop Wpf", "id": "SnoopWpf.Snoop" },
   { "name": "Spotify", "id": "Spotify.Spotify" },
+  { "name": "sudo", "id": "gerardog.gsudo" },
   { "name": "Tailscale", "id": "tailscale.tailscale" },
   { "name": "VS Code", "id": "Microsoft.VisualStudioCode" },
   { "name": "WinDbg Preview", "id": "9PGJGD53TN86" },
